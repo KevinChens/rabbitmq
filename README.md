@@ -1,0 +1,2 @@
+# rabbitmq
+rabbimq实例
